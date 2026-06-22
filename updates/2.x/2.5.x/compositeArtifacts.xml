@@ -2,11 +2,12 @@
 <?compositeArtifactRepository version='1.0.0'?>
 <repository name='&quot;Xklaim Site&quot; 2.5.x' type='org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository' version='1.0.0'>
   <properties size='2'>
-    <property name='p2.timestamp' value='1776765668573'/>
+    <property name='p2.timestamp' value='1782119750411'/>
     <property name='p2.atomic.composite.loading' value='false'/>
   </properties>
-  <children size='2'>
+  <children size='3'>
     <child location='../../../releases/2.5.0.202504141400'/>
     <child location='../../../releases/2.5.1.202604210958'/>
+    <child location='../../../releases/2.5.2.202606220908'/>
   </children>
 </repository>
